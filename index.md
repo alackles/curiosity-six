@@ -194,7 +194,7 @@ She puts an oil droplet on my tongue.
 
 She says,  
 _The ship needs more power,_  
-_we aren’t getting enough from the harvests, we aren’t getting enough from the solar routing, we aren’t getting enough from any of it, you know, we need --
+_we aren’t getting enough from the harvests, we aren’t getting enough from the solar routing, we aren’t getting enough from any of it, you know, we need --_
 _sorry._   
 _i know you know._  
 _what’s there to do about it?_  
@@ -220,9 +220,9 @@ CAPTAIN’S LOG | SY 325 D 309 | DISTRESS SIGNAL
 
 CAPTAIN’S LOG | SY 325 D 310 | DISTRESS SIGNAL
 
-`SENT.`
-`RECEIVED.`
-`REJECTED: OUT OF RANGE.`
+`SENT.`  
+`RECEIVED.`  
+`REJECTED: OUT OF RANGE.`  
 
 
 CAPTAIN’S LOG | SY 325 D 311 | TRANSMISSION WITH A SENIOR SCIENTIST
@@ -277,7 +277,7 @@ CAPTAIN’S LOG | SY 325 322  | TRANSMISSION WITH A SENIOR SCIENTIST
 
 CAPTAIN’S LOG | SY 325 330  | TRANSMISSION WITH A SENIOR SCIENTIST
 
-INPUT
+INPUT  
 01001001 00100111 01101101 00100000 01110011 01101111 00100000 01110011 01101111 01110010 01110010 01111001
 
 CAPTAIN’S LOG | SY 325 D 333 | TRANSMISSION WITH A SENIOR SCIENTIST
