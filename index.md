@@ -1,3 +1,10 @@
+**curiosity six**  
+_Acacia Ackles_  
+  
+    
+      
+        
+
 CAPTAIN’S LOG | SY 324 D 220 | TRANSMISSION WITH A SENIOR SCIENTIST
 
 She puts a bone fragment against my tongue.
